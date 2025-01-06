@@ -1,2 +1,18 @@
 
 /* Your CSS Code here. */
+table {
+	width: 100%;
+	text-align: center;
+	margin: 35px 0;
+}
+
+th,
+td {
+	padding: 2px;
+    text-align: center;
+}
+
+.invert {
+	background-color: black;
+	color: white;
+}
